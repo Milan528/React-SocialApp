@@ -1,0 +1,19 @@
+npm install --save busboy                  -----za cuvanje slika
+firebase deploy/serve za node.js funkcije
+npm start za pokretanje sajta u react
+NAPOMENA AKO KORISTIS FIREBASE CLINET LIBRAY APLIKACIJA JE DOSTA VECA NEGO DA KORISTIS FUNKCIJE KOJE UPLOAD
+NAPOMENA KADA BRISE POST NIJE BRISAO LIKE I COMMENT AKO NE URADI DODAJ SAM
+
+u react app
+npm install --save react-router-dom
+npm install --save @material-ui/core
+npm install --save axios   komunikacija tj slanje zahteva
+npm install --save dayjs           za sredjivanje vremena
+npm install --save jwt-decode      za dekodiranje firebase tokena   
+
+
+npm install --save redux react-redux redux-thunk  //thunk asinhroni kod u redux
+
+
+
+npm install --save @material-ui/icons ikone
